@@ -3,6 +3,10 @@ This repository contains all related files of the Udacity data scientist nanopro
 
 ## Installation
 The code should run in the Python 3.6.* environment
+pandas=1.1.3
+matplotlib=2.1.0
+numpy=1.12.1
+scikit-learn=0.19.1
 
 ## Data source
 [data](https://github.com/Mendy5/Udacity_Project_Capstone/tree/master/data)
