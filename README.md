@@ -12,13 +12,14 @@ scikit-learn=0.23.2
 [data](https://github.com/Mendy5/Udacity_Project_Capstone/tree/master/data)
 
 ## Project Motivation
-The project aims to build a model for finding the best offer to the target demographic groups. It is important to find the demographic group would response to which offer and bring more transactions.
+The project aims to build a model for finding the best offer to the target demographic groups. Try to figure out the questions below:
+
 
 ## File Description
 The data directory contains all the metadata files, including portfolio.json, profile.json and transcript.json. The Starbucks_Capstone_notebook is a draft now and showcases all the work related with the final models.
 
 ## Results
-NA
+The main findings are published on medium.com:[Starbucks: Attracting Customers with Offers](https://medium.com/@wmd1103/starbucks-attracting-customers-with-offers-327e39be57d8)
 
 # Licensing, Authors, Acknowledgements
 Must give credit to Starbucks for the data.
