@@ -13,7 +13,9 @@ scikit-learn=0.23.2
 
 ## Project Motivation
 The project aims to build a model for finding the best offer to the target demographic groups. Try to figure out the questions below:
-
+1. Which groups of customer respond best to the offers
+2. Predict if customers will use the offers
+3. Predict what offer types these customers would like
 
 ## File Description
 The data directory contains all the metadata files, including portfolio.json, profile.json and transcript.json. The Starbucks_Capstone_notebook is a draft now and showcases all the work related with the final models.
